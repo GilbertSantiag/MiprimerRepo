@@ -34,4 +34,4 @@ Describe lo que esperabas que ocurriera al realizar los pasos anteriores.
 
 Si es posible, añade capturas de pantalla o registros de errores.
 
-### Entorno 44S
+### Entorno
