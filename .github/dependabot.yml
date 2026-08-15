@@ -5,7 +5,7 @@
 
 version: 2
 updates:
-  - package-ecosystem: "nuget" # See documentation for possible values
-    directory: "/Proyecto1/probando" # Location of package manifests
+  - package-ecosystem: "nuget"
+    directory: "/Proyecto1/probando"
     schedule:
       interval: "daily"
